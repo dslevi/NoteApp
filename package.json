@@ -1,0 +1,23 @@
+{
+  "name": "notePad",
+  "version": "1.0.0",
+  "description": "note taking app for computer science",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dslevi/NoteApp"
+  },
+  "keywords": [
+    "note",
+    "cs"
+  ],
+  "author": "Danielle Levi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dslevi/NoteApp/issues"
+  },
+  "homepage": "https://github.com/dslevi/NoteApp"
+}
